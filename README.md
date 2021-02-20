@@ -1,4 +1,4 @@
 # Hello word!
 
+- feature-A
 - fix-B
->>>>>>> fix-B
